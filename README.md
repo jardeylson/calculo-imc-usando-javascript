@@ -2,6 +2,6 @@
 
 Script de resolução do calculo do Índice de Massa Corpórea.
 
-##Características
+## Características
 
 - Utilização das tags HTML. 
